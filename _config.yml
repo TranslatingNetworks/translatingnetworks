@@ -1,5 +1,5 @@
 title:            Translating Networks
-tagline:          Analyzing networks of contemporary world literature in translation
+tagline:          Exploring networks of contemporary world literature in translation
 description:      
 #Comment out url when working locally to resolve base urls correctly
 url: http://dawnchildress.com/translatingnetworks
@@ -16,7 +16,7 @@ owner:
 # For external links add external: true
 links:
   - title: About
-    url: /about
+    url: /about/index.html
   - title: Github
     url: https://github.com/kirschbombe/translatingnetworks
     external: true
@@ -49,6 +49,7 @@ kramdown:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
+relative_permalinks: true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
