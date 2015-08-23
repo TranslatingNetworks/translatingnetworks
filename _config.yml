@@ -2,8 +2,8 @@ title:            Translating Networks
 tagline:          Exploring networks of contemporary world literature in translation
 description:      
 #Comment out url when working locally to resolve base urls correctly
-#url: http://dawnchildress.com/translatingnetworks
-#baseurl: http://dawnchildress.com/translatingnetworks
+url: http://dawnchildress.com/translatingnetworks
+baseurl: http://dawnchildress.com/translatingnetworks
 
 # Owner/author information
 owner:
