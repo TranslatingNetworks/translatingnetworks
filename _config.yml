@@ -1,0 +1,56 @@
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Translating Networks
+tagline:          'Exploring literary translation communities through graph theory'
+description:      'Website for the Tanslating Networks Project.'
+url:              http://dawnchildress.com/translatingnetworks
+baseurl:          /
+paginate:         5
+
+#About/contact
+author:
+  name:           'Dawn Childress'
+  url:            dawnchildress.com
+  email:          dchildress@library.ucla.edu
+  
+# Conversion
+markdown:    kramdown  
+highlighter: rouge
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/kirschbombe/translatingnetworks
+  
+# Plugins
+gems: [jekyll-paginate]
+
+#Post excerpt
+excerpt_separator: "<!--excerpt-->"
+
+# Markdown Processors
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+  coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      inline
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               style

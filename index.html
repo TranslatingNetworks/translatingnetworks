@@ -1,0 +1,27 @@
+---
+layout: default
+title: Home
+---
+
+<img src="/assets/bigcommunitycrop.png" alt="screenshot of a large network graph" />
+<h3>About the project</h3>
+<p><i>Translating Networks</i> attempts to explore the communities, connections, and influences in contemporary literary translation through graph theory. The project also serves as a sandbox to learn about network analysis and other computational methods, as well as to better understand their application in book and publishing history research.</p>
+
+<p>The current phase of the project focuses on three areas:  1) collecting additional data about publishers and authors,  2) building an open, interactive graph database for researchers to explore,  and 3) exploring this data using a variety of computational tools.</p>
+
+{% if site.data.travel.size > 0 %}
+<hr />
+
+<h3>Upcoming Events</h3>
+
+{% include travel.html %}
+
+{% endif %}
+<hr />
+
+<h3>Recent Posts</h3>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
