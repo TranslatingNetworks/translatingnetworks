@@ -6,7 +6,7 @@ permalink:        pretty
 title:            Translating Networks
 tagline:          'Exploring literary translation communities through graph theory'
 description:      'Website for the Tanslating Networks Project.'
-url:              http://dawnchildress
+url:              dawnchildress.com
 baseurl:          /translatingnetworks
 paginate:         5
 
