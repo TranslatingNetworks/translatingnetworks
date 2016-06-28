@@ -11,4 +11,4 @@ Thomas O. Beebee,
 
 Martin Klein, 
 
-Sean Weidman,
+Sean Weidman is a PhD candidate in English at Pennsylvania State University, where his research interests are focused in the fields of modernism, Irish literature, and the digital humanities. His recent DH projects have applied various digital approaches to modernist corpora--mainly, computational stylistics, stylometry, topic modeling, and network analysis. His current project is concerned more generally with "modernist hospitalities."
