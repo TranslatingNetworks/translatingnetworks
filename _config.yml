@@ -7,7 +7,7 @@ title:            Translating Networks
 tagline:          'Exploring literary translation communities through graph theory'
 description:      'Website for the Tanslating Networks Project.'
 url:              https://translatingnetworks.github.io
-baseurl:          
+baseurl:          /
 paginate:         5
 
 #About/contact

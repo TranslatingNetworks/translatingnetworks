@@ -7,7 +7,7 @@ title: News
   {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
@@ -16,7 +16,7 @@ title: News
 
     {{ post.excerpt }}
     {% if post.content contains site.excerpt_separator %}
-      <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+      <a href="{{ post.url }}">Read more</a>
     {% endif %}
   </div>
   {% endfor %}
