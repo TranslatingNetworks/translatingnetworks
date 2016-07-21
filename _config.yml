@@ -6,8 +6,8 @@ permalink:        pretty
 title:            Translating Networks
 tagline:          'Exploring literary translation communities through graph theory'
 description:      'Website for the Tanslating Networks Project.'
-url:              dawnchildress.com
-baseurl:          /translatingnetworks
+url:              translatingnetworks.github.io
+baseurl:          
 paginate:         5
 
 #About/contact
@@ -24,7 +24,7 @@ highlighter: rouge
 version:          2.1.0
 
 github:
-  repo:           https://github.com/kirschbombe/translatingnetworks
+  repo:           https://github.com/translatingnetworks
   
 # Plugins
 gems: [jekyll-paginate]
