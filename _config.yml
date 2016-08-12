@@ -11,10 +11,19 @@ baseurl:          /
 paginate:         5
 
 #About/contact
-author:
-  name:           'Dawn Childress'
-  url:            dawnchildress.com
-  email:          dchildress@library.ucla.edu
+authors:
+  dawn:
+    name:           'Dawn Childress'
+    url:            dawnchildress.com
+    email:          dchildress@library.ucla.edu
+    twitter:        '@kirschbombe'
+    github:         kirschbombe
+  sean:
+    name:           'Sean Weidman'
+    email:
+    twitter:
+  tom:
+    name:           'Tom Beebee'
   
 # Conversion
 markdown:    kramdown  
