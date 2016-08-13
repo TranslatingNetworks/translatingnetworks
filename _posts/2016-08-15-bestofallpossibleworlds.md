@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attaining the best of all possible worlds
+title: The best of all possible (DH) worlds
 author: sean
 description: Musings on balancing research, infrastructure, risk, and the needs of real and hypothetical scholars
 ---
