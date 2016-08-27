@@ -19,4 +19,4 @@ One common avenue taken in response, and one our project plans to take for a var
 
 > Whatever else it might be, then, the digital humanities today is about a scholarship (and a pedagogy) that is publicly visible in ways to which we are generally unaccustomed, a scholarship and pedagogy that are bound up with infrastructure in ways that are deeper and more explicit than we are generally accustomed to, a scholarship and pedagogy that are collaborative and depend on networks of people and that live an active, 24-7 life online.
 
-Public facing, large-scale digitization efforts certainly introduces many of its own issues, but as Kirschenbaum points out, it creates the necessity for a kind of network-oriented digital scholarship, one that I feel is quite fitting given the nature of our own project.
+Public facing, large-scale digitization efforts certainly introduce many of their own issues, but as Kirschenbaum points out, they creates the necessity for a kind of network-oriented digital scholarship, one that I feel is quite fitting given the nature of our own project.
