@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Data Collection: Tales from the Front Lines
+title: Data Collection, Tales from the Front Lines
 author: sean
 description: Limits of data collection 
 ---
+
 The most laborious part of any substantial DH project is, of course, data collection. This holds true to an even greater extent when your project aims to be a comprehensive resource on a particular topic by offering not simply a tool for analysis, but a full complement of data to analyze—in our case, data of literary translation into the English language. Although we were given a considerable head-start courtesy of the University of Rochester’s [Three-Percent Translation Database](http://www.rochester.edu/College/translation/threepercent/index.php?s=database), our own project goals required an expansion of much of their data, which in turn required many hours of arduous data-filling.
 
 I have been focused primarily on the translator set of nodes, and alongside a number of research assistants at UCLA—under the direction of Dawn—was tasked with filling out additional information about the translators of our dataset. This included translator gender, nationality, type (freelance, professional, academic, author), and affiliation (university, press, organization, business).
